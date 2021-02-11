@@ -1,3 +1,0 @@
-[submodule "3rd-party/mirror_utf8cpp"]
-	path = 3rd-party/mirror_utf8cpp
-	url = https://github.com/staticlibs/mirror_utf8cpp.git

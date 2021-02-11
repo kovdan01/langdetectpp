@@ -89,7 +89,7 @@ add_library(${PROJECT_NAME}
 target_compile_features(${PROJECT_NAME} PRIVATE cxx_std_20)
 
 target_include_directories(${PROJECT_NAME} PRIVATE
-    ${CMAKE_CURRENT_LIST_DIR}/../3rd-party/mirror_utf8cpp/source
+    ${CMAKE_CURRENT_LIST_DIR}/3rd-party/utf8cpp
     src
 )
 
